@@ -13,4 +13,5 @@ The dashboard will enable end-users to:
 
 The sql queries detailing the whole process from data cleaning to analysis is attached to the files.
 
-[Interactive Power BI Report]([https://app.powerbi.com/view?r=eyJrIjoiYWRiMmFlMGQtODBlZC00NGRhLTliZTktYzNiNWNlN2Q0OTJkIiwidCI6Ijk0MWJiZjVmLWYyYzAtNDg3NS1hMjRjLTY5MDc4NjVkMjUxYSIsImMiOjh9](https://mavenanalytics.io/project/26832))
+[Interactive Power BI Report](https://mavenanalytics.io/project/26832)
+
